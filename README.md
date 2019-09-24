@@ -219,8 +219,6 @@ for index, character in enumerate(tv_characters):
 8: Sherlock Holmes
 ```
 
-> **Hint:** Remember the [spreadsheet](https://www.dropbox.com/s/cqsxfws52gulkyx/drawing.pdf) we looked at earlier? See if it can help!
-
 ------------
 
 ## Last, But Not Least
