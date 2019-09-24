@@ -14,7 +14,7 @@ Questions? Comments?
 In this homework, you're going to write code for a few problems. Like before, we'll be practicing new material, but you may need to break out your skills from previous units.
 
 You will practice these programming concepts we've covered in class:
-* Using `itertools` and `random` functions.
+* Using `random` functions.
 * Type conversion and more advanced variable usage.
 * Calling an API to get data using `requests`.
 * Debugging code that doesn't work using `print` statements.
