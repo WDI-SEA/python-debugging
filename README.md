@@ -155,7 +155,16 @@ I'm trying to write a list of favorite TV show characters to a file called `my_c
 
 #### My Code
 
-<iframe height="400px" width="100%" src="https://repl.it/@GAcoding/python-programming-hw-eod-3-prob-5?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+```python
+# Add your own! :)
+tv_characters = ["Will Byers", "Tyrion Lannister", "Oliver Queen", "Jean Luc Picard", "Malcom Reynolds", "The Doctor", "Sam Winchester", "Sherlock Holmes"]
+
+# Write out my character list to a file called "text"
+for index, character in enumerate(tv_characters):
+  f = open("text", "w")
+  f.write("{0}: {1}\n".format(index+1, character))
+  f.close()
+```
 
 
 #### Desired Output
